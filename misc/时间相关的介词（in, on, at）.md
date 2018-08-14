@@ -83,3 +83,11 @@ at 用在「小」的时间上：时间点。
 
 - at Christmas 在圣诞节上
 - at Christmas Day 在圣诞节那一天
+
+### 用 at 的三种情况
+
+- at the weekend 周末
+- at the end of ... 在 …… 的最后，在 …… 结束时。
+
+    at the end of the day / month 一天结束时 / 月底。
+- at the moment 此刻，此时，这一刻
